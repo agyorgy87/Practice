@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Crysis",
+        "date": 2007,
+        "genre": "action",
+        "img": "crysis.png"
+    },
+    {
+        "name": "Mirror's Edge",
+        "date": 2008,
+        "genre": "action",
+        "img": "mirrorsedge.png"
+    },
+    {
+        "name": "Red Alert 2",
+        "date": 2000,
+        "genre": "strategy",
+        "img": "redalert2.png"
+    }
+]
